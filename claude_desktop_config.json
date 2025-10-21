@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "crm-server": {
+      "command": "C:\\CARPETA\\Carpeta-proyecto\\start_mcp.bat",
+      "args": [],
+      "env": {
+        "RAILS_ENV": "development"
+      }
+    }
+  }
+}
